@@ -1,0 +1,13 @@
+Professional icons thanks to: RRZE Icon Set
+http://rrze-icon-set.berlios.de/gallery.html
+The eGraph logo is a modified version from the RRZE Icon Set.
+
+Thanks to IcoFX, I was able to generate appropriate icon files for Windows and Max OSX.
+http://www.icofx.ro
+
+eGraph is offered under the Creative Commons Attribution License 3.0
+http://creativecommons.org/licenses/by-sa/3.0/
+
+If you have any questions or concerns please contact: software@datavirtue.com
+
+

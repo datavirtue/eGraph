@@ -1,0 +1,34 @@
+<launch4jConfig>
+  <dontWrapJar>true</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>eGraph.jar</jar>
+  <outfile>egraph.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir></chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl>http://www.datavirtue.com</supportUrl>
+  <customProcName>true</customProcName>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+  <icon>C:\prj\eGraph\src\res\eGraph_icons.ico</icon>
+  <jre>
+    <path></path>
+    <minVersion>1.5.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>1.0 R1</txtFileVersion>
+    <fileDescription>eGraph Java Jar Launcher</fileDescription>
+    <copyright>Copyright 2010 Data Virtue</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>1.0</txtProductVersion>
+    <productName>eGraph - The Free Graph Worksheet Builder for Algebra</productName>
+    <companyName>Data Virtue</companyName>
+    <internalName>eGraph</internalName>
+    <originalFilename>egraph.exe</originalFilename>
+  </versionInfo>
+</launch4jConfig>

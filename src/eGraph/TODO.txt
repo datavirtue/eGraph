@@ -1,0 +1,9 @@
+
+sizing algorithm for the slope demo
+
+Creat nice graphics for the equation
+
+integrate Intel AppUp SDK components
+
+add more demos
+
